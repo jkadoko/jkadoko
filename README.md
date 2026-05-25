@@ -12,7 +12,7 @@
 
 My research centers on the development of **Agentic AI** and data-driven analytical tools to solve complex problems across finance, engineering, and daily life. By leveraging modern AI models, I create solutions that transform raw data into actionable intelligence and functional user experiences. 
 
-I use AI tools such as Google Antigravity IDE, Claude Code, and NotebookLM to build these solutions.
+I use AI tools such as Google Antigravity IDE, Gemini CLI, Claude Code, and NotebookLM.
 
 ---
 
@@ -23,11 +23,11 @@ I use AI tools such as Google Antigravity IDE, Claude Code, and NotebookLM to bu
 *   **[GroceryBuddy](https://g-buddy.jonahkadoko.com/)**: A smart kitchen management and grocery tracking app designed to reduce waste and streamline shopping.
 *   **[Circle Packing Calculator](https://ai-research.jonahkadoko.com/circle-packing-calculator.php)**: An interactive tool to calculate and visualize how many small circles fit into a larger shape.
 *   **[Tolerance Analysis](https://www.jonahkadoko.com)**: An interactive tool to calculate and visualize statistical and worst-case tolerance stack-ups for engineering drawings.
-*   **[52-week Stock Analysis]** An AI powered analysis tool that visualizes stocks trading at 52-week highs and lows.
+*   **52-week Stock Analysis** An AI powered analysis tool that visualizes stocks trading at 52-week highs and lows.
 *   **[Patzilla](https://github.com/jkadoko/patzilla)** Forked and migrated Patzilla to python3+.
-*   **[AI CAD Fusion]**: AI integrations and tools for Autodesk Fusion CAD.
-*   **[AI CAD Onshape]**: AI integrations and tools for Onshape.
-*   **[AI Workshop Series]**: Educational materials and scripts for AI workshop series.
+*   **AI CAD Fusion**: AI integrations and tools for Autodesk Fusion CAD.
+*   **AI CAD Onshape**: AI integrations and tools for Onshape.
+*   **AI Workshop Series**: Educational materials and scripts for AI workshop series.
 
 ---
 
