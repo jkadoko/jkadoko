@@ -2,7 +2,6 @@
 
 **Staff Mechanical Engineer | Inventor | AI Native**
 
-[![Website](https://img.shields.io/badge/Website-jonahkadoko.com-blue?style=for-the-badge&logo=google-chrome)](https://jonahkadoko.com)
 [![AI Research](https://img.shields.io/badge/AI_Research-ai--research.jonahkadoko.com-purple?style=for-the-badge&logo=google-chrome)](https://ai-research.jonahkadoko.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jkadoko-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jkadoko)
 
