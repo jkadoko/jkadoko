@@ -19,15 +19,14 @@ I use AI tools such as Google Antigravity IDE, Gemini CLI, Claude Code, and Note
 ## 🛠️ Featured AI & Engineering Projects
 
 *   **[BiotechAnalyzer App](https://www.jonahkadoko.com/web-app/)**: Interactive analysis tool for biotech market data. Developed a local engine and a web-app using Agentic AI programming.
-*   **[Orbit - The Global Sync](https://jonahkadoko.com/orbit/)**: An all-in-one personal dashboard integrating weather, news, and calendar holidays for global synchronization.
+*   **[Patzilla](https://github.com/jkadoko/patzilla)** Forked and migrated Patzilla to python3+.
+*   **[Tolerance Stack-up Analysis](https://ai-research.jonahkadoko.com/tol-analyzer.php)**: An interactive tool to calculate and visualize statistical and worst-case tolerance stack-ups for engineering drawings.
+*   **[Orbit - The Global Sync](https://jonahkadoko.com/orbit/)**: An all-in-one personal dashboard integrating weather, news, and calendar holidays for global synchronization and meeting scheduling.
 *   **[GroceryBuddy](https://g-buddy.jonahkadoko.com/)**: A smart kitchen management and grocery tracking app designed to reduce waste and streamline shopping.
 *   **[Circle Packing Calculator](https://ai-research.jonahkadoko.com/circle-packing-calculator.php)**: An interactive tool to calculate and visualize how many small circles fit into a larger shape.
-*   **[Tolerance Analysis](https://www.jonahkadoko.com)**: An interactive tool to calculate and visualize statistical and worst-case tolerance stack-ups for engineering drawings.
-*   **52-week Stock Analysis** An AI powered analysis tool that visualizes stocks trading at 52-week highs and lows.
-*   **[Patzilla](https://github.com/jkadoko/patzilla)** Forked and migrated Patzilla to python3+.
-*   **AI CAD Fusion**: AI integrations and tools for Autodesk Fusion CAD.
-*   **AI CAD Onshape**: AI integrations and tools for Onshape.
-*   **AI Workshop Series**: Educational materials and scripts for AI workshop series.
+*   **[52-week Stock Analysis](https://ai-research.jonahkadoko.com/52wk-trade-screener.php)** An AI powered analysis tool that visualizes stocks trading at 52-week highs and lows.
+*   **[AI CAD](https://ai-research.jonahkadoko.com/ai-cad-fusion-agents.php)**: AI integrations and tools for Autodesk Fusion and OnShape.
+*   **[AI Workshop Series](https://github.com/jkadoko/ai-workshop-series)**: Educational materials and scripts for AI workshop series that I host.
 
 ---
 
