@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-My research centers on the development of **Agentic AI** and data-driven analytical tools to solve complex problems across finance, engineering, and daily life. By leveraging modern AI models, I create solutions that transform raw data into actionable intelligence and functional user experiences. 
+My coding activities center on the development of **Agentic AI** and data-driven analytical tools to solve complex problems across finance, engineering, and daily life. By leveraging frontier and open-source AI models, I create solutions that transform raw data into actionable intelligence and productive user experiences. 
 
 I use AI tools such as Google Antigravity IDE, Gemini CLI, Claude Code, and NotebookLM.
 
@@ -23,7 +23,6 @@ I use AI tools such as Google Antigravity IDE, Gemini CLI, Claude Code, and Note
 *   **[Orbit - The Global Sync](https://jonahkadoko.com/orbit/)**: An all-in-one personal dashboard integrating weather, news, and calendar holidays for global synchronization and meeting scheduling.
 *   **[GroceryBuddy](https://g-buddy.jonahkadoko.com/)**: A smart kitchen management and grocery tracking app designed to reduce waste and streamline shopping.
 *   **[Circle Packing Calculator](https://ai-research.jonahkadoko.com/circle-packing-calculator.php)**: An interactive tool to calculate and visualize how many small circles fit into a larger shape.
-*   **[52-week Stock Analysis](https://ai-research.jonahkadoko.com/52wk-trade-screener.php)** An AI powered analysis tool that visualizes stocks trading at 52-week highs and lows.
 *   **[AI CAD](https://ai-research.jonahkadoko.com/ai-cad-fusion-agents.php)**: AI integrations and tools for Autodesk Fusion and OnShape.
 *   **[AI Workshop Series](https://github.com/jkadoko/ai-workshop-series)**: Educational materials and scripts for AI workshop series that I host.
 
